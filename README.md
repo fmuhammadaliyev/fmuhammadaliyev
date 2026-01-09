@@ -19,13 +19,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I am a Frontend Developer<br><br>- 💻 I work with React.js and Next.js<br>- 📚 I am currently learning TypeScript and advanced React patterns<br>- ⚡ I create projects and develop my programming skills in my free time</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
