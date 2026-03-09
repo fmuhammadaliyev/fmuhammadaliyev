@@ -1,7 +1,16 @@
 <div align="center">
   <img height="150" src="https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_vs_programming.jpg?v=1689328130"  />
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/fahriddinn7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/fahriddinn7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
+###
 ###
 
 <h1 align="center">Fahriddin Muhammadaliyev</h1>
