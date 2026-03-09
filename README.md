@@ -1,7 +1,6 @@
 <div align="center">
   <img height="150" src="https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_vs_programming.jpg?v=1689328130"  />
 </div>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fahriddinn7/" target="_blank">
