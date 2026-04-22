@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">Men haqimda</h2>
+<h3 align="left">Men haqimda</h3>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">Men ishlatadigan texnologiyalar</h2>
+<h3 align="left">Men ishlatadigan texnologiyalar</h3>
 
  
 ###
