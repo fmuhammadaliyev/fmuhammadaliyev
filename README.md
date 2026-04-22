@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Mening ismim Faxriddin va men frontend dasturchiman.</p>
+<h1 align="left">Mening ismim Faxriddin va men frontend dasturchiman.</h1>
 
 ###
 
